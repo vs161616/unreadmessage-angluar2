@@ -1,0 +1,7 @@
+.mesgs p{
+  background-color: #ddd;
+  width: max-content;
+  padding: 5px 10px;
+  border-radius: 0px 10px 10px 10px;
+  color: #000;
+}
